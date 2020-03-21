@@ -1,0 +1,5 @@
+﻿  RegistrationAndAutorization.cpp
+  Source.cpp
+D:\Visual Studio\Project14\Project14\Source.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Project14.vcxproj -> D:\Visual Studio\Project14\Debug\Project14.exe
